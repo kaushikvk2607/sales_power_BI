@@ -19,3 +19,8 @@ It provides an interactive visualization of sales performance, profits, and cust
 - Interactive visuals including **pie charts, donut charts, and line charts**  
 - Helps identify **top-performing and low-performing products**  
 
+## 🚀 How to Use
+1. Download the `.pbix` file from this repository.  
+2. Open it with **Power BI Desktop**.  
+3. Explore the interactive dashboard with applied filters.  
+
