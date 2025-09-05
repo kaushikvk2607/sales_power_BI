@@ -11,3 +11,11 @@ It provides an interactive visualization of sales performance, profits, and cust
 - Total Quantity Sold: 38K
 - Total Customers: 800
 - Total Products: 1862
+
+## 🔹 Features
+- Sales breakdown by **Category, Segment, Region, and Ship Mode**  
+- Dynamic filters for **Month, Year, Product Name, and City**  
+- Profit vs Sales comparison at the **Sub-Category** level  
+- Interactive visuals including **pie charts, donut charts, and line charts**  
+- Helps identify **top-performing and low-performing products**  
+
