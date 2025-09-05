@@ -24,3 +24,5 @@ It provides an interactive visualization of sales performance, profits, and cust
 2. Open it with **Power BI Desktop**.  
 3. Explore the interactive dashboard with applied filters.  
 
+## 🎯 Purpose
+This project demonstrates how Power BI can be used for **business intelligence and data-driven decision-making** by analyzing sales data in an intuitive and interactive way.
